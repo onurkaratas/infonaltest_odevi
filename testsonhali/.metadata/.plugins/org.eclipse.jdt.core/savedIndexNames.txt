@@ -1,0 +1,5 @@
+INDEX VERSION 1.127+C:\Users\onur\Desktop\testsonhali\.metadata\.plugins\org.eclipse.jdt.core
+1600179512.index
+4219904627.index
+1039258730.index
+3750748380.index

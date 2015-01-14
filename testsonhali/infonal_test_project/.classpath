@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jre1.8.0_25"/>
+	<classpathentry kind="lib" path="C:/Users/onur/Documents/GitHub/testdeneme/selenium-java-2.44.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/onur/Documents/GitHub/testdeneme/selenium-java-2.44.0-srcs.jar"/>
+	<classpathentry kind="lib" path="C:/Users/onur/Documents/GitHub/testdeneme/selenium-server-standalone-2.41.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
